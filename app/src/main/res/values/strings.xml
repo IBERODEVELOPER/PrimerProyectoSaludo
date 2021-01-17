@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba01Saludo</string>
+    <string name="nombre_hin_edit">Introduce tu nombre</string>
+    <string name="nombre_button">¡Saludar!</string>
+    <string name="mensaje_defecto">Hola Fulanito</string>
+    <string name="resultado_saludo">¡Hola %1$s!</string>
+</resources>
